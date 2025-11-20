@@ -154,10 +154,17 @@ This project is:
 
 ---
 
-## 🙋 Want More?
-I can generate:
-- Streamlit App  
-- Deployment Guide  
-- Flask/FastAPI API  
-- PPT for presentation  
-Just ask!
+
+##🖥️ Web App Demo
+The Streamlit app allows users to:
+
+Paste news text
+
+Get prediction (Fake / Real)
+
+View confidence score
+
+See retrieved REAL news evidence passages
+
+<img width="1906" height="805" alt="image" src="https://github.com/user-attachments/assets/9e6b0f44-cf5c-414e-aa70-ac9a6ce5a5da" />
+
