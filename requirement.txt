@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+python-dotenv
+huggingface-hub
